@@ -1,0 +1,97 @@
+# assignment-5-1
+
+
+
+Rectangle.java
+
+
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication52;
+
+/**
+ *
+ * @author hp1
+ */
+public class Triangle extends dimensions {
+    int a;
+    void calculate(){
+        
+        a=(l*b)/2;
+        
+    }
+    void display()
+    {
+ System.out.println("Area of Triangle is "+a);
+}
+}
+
+
+
+
+Triangle.java
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication52;
+
+/**
+ *
+ * @author hp1
+ */
+public class Triangle extends dimensions {
+    int a;
+    void calculate(){
+        
+        a=(l*b)/2;
+        
+    }
+    void display()
+    {
+ System.out.println("Area of Triangle is "+a);
+}
+}
+
+
+
+
+Main method:
+
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication52;
+
+/**
+ *
+ * @author hp1
+ */
+public class Triangle extends dimensions {
+    int a;
+    void calculate(){
+        
+        a=(l*b)/2;
+        
+    }
+    void display()
+    {
+ System.out.println("Area of Triangle is "+a);
+}
+}
+
+
+
+
+
+
+
